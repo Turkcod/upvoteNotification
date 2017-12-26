@@ -1,0 +1,12 @@
+c:\users\mustafa\source\repos\upvoteNotification\upvoteNotification\bin\Debug\upvoteNotification.exe.config
+c:\users\mustafa\source\repos\upvoteNotification\upvoteNotification\bin\Debug\upvoteNotification.exe
+c:\users\mustafa\source\repos\upvoteNotification\upvoteNotification\bin\Debug\upvoteNotification.pdb
+c:\users\mustafa\source\repos\upvoteNotification\upvoteNotification\bin\Debug\Newtonsoft.Json.dll
+c:\users\mustafa\source\repos\upvoteNotification\upvoteNotification\bin\Debug\Newtonsoft.Json.xml
+c:\users\mustafa\source\repos\upvoteNotification\upvoteNotification\obj\Debug\upvoteNotification.Form1.resources
+c:\users\mustafa\source\repos\upvoteNotification\upvoteNotification\obj\Debug\upvoteNotification.notify.resources
+c:\users\mustafa\source\repos\upvoteNotification\upvoteNotification\obj\Debug\upvoteNotification.Properties.Resources.resources
+c:\users\mustafa\source\repos\upvoteNotification\upvoteNotification\obj\Debug\upvoteNotification.csproj.GenerateResource.Cache
+c:\users\mustafa\source\repos\upvoteNotification\upvoteNotification\obj\Debug\upvoteNotification.csproj.CoreCompileInputs.cache
+c:\users\mustafa\source\repos\upvoteNotification\upvoteNotification\obj\Debug\upvoteNotification.exe
+c:\users\mustafa\source\repos\upvoteNotification\upvoteNotification\obj\Debug\upvoteNotification.pdb
